@@ -1,0 +1,9 @@
+const DIFFICULTY = 3;
+
+const MINING_REWARD = 80;
+
+const PRIVATE_KEY = '81ee57e27c7cdb2d2ae1e79c54b22106640c4ee1789b88e6c28564f4ce75bf08'
+
+module.exports.DIFFICULTY = DIFFICULTY
+module.exports.MINING_REWARD = MINING_REWARD
+module.exports.PRIVATE_KEY = PRIVATE_KEY
